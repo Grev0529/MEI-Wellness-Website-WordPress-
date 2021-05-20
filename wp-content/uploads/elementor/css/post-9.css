@@ -1,0 +1,70 @@
+.elementor-9 .elementor-element.elementor-element-02e6d14 > .elementor-container{min-height:400px;}.elementor-9 .elementor-element.elementor-element-02e6d14 > .elementor-container:after{content:"";min-height:inherit;}.elementor-9 .elementor-element.elementor-element-02e6d14:not(.elementor-motion-effects-element-type-background), .elementor-9 .elementor-element.elementor-element-02e6d14 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("http://localhost/meiwell/wp-content/uploads/2021/05/Checkout-Article-Desktop-banner.jpg");background-position:center center;background-size:cover;}.elementor-9 .elementor-element.elementor-element-02e6d14{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 50px 0px;}.elementor-9 .elementor-element.elementor-element-02e6d14 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-9 .elementor-element.elementor-element-d740d5a{text-align:center;}.elementor-9 .elementor-element.elementor-element-d740d5a .elementor-heading-title{color:#2C2C2C;font-family:"Montserrat", Sans-serif;font-size:42px;font-weight:600;line-height:1.5em;letter-spacing:0.5px;}.elementor-9 .elementor-element.elementor-element-bd42132 .elementor-text-editor{text-align:center;}.elementor-9 .elementor-element.elementor-element-bd42132{color:#2C2C2C;font-family:"Montserrat", Sans-serif;font-size:18px;font-weight:400;}.elementor-9 .elementor-element.elementor-element-32c2008 .elementor-heading-title{color:#292A2B;font-family:"Montserrat", Sans-serif;font-size:32px;font-weight:600;text-transform:capitalize;line-height:1.5em;letter-spacing:0.5px;}.elementor-9 .elementor-element.elementor-element-c1fa1a2{margin-top:50px;margin-bottom:70px;}.elementor-9 .elementor-element.elementor-element-f11b0d7:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-9 .elementor-element.elementor-element-f11b0d7 > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#92B8A0;}.elementor-9 .elementor-element.elementor-element-f11b0d7 > .elementor-element-populated, .elementor-9 .elementor-element.elementor-element-f11b0d7 > .elementor-element-populated > .elementor-background-overlay, .elementor-9 .elementor-element.elementor-element-f11b0d7 > .elementor-background-slideshow{border-radius:20px 20px 20px 20px;}.elementor-9 .elementor-element.elementor-element-f11b0d7 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:30px 30px 30px 30px;}.elementor-9 .elementor-element.elementor-element-f11b0d7 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-9 .elementor-element.elementor-element-950a7bd{text-align:center;}.elementor-9 .elementor-element.elementor-element-950a7bd .elementor-heading-title{color:#FFFFFF;font-family:"Montserrat", Sans-serif;font-size:32px;font-weight:600;text-transform:capitalize;line-height:1.5em;letter-spacing:0.5px;}.elementor-9 .elementor-element.elementor-element-950a7bd > .elementor-widget-container{padding:10px 0px 0px 0px;}.elementor-9 .elementor-element.elementor-element-d239136{--grid-template-columns:repeat(0, auto);--grid-column-gap:20px;--grid-side-margin:20px;--grid-row-gap:0px;--grid-bottom-margin:0px;}.elementor-9 .elementor-element.elementor-element-d239136 .elementor-widget-container{justify-content:center;}.elementor-9 .elementor-element.elementor-element-d239136 .elementor-social-icon{background-color:#92B8A0;font-size:42px;padding:0em;}.elementor-9 .elementor-element.elementor-element-d239136 .elementor-social-icon i{color:#FFFFFF;}.elementor-9 .elementor-element.elementor-element-d239136 .elementor-social-icon svg{fill:#FFFFFF;}.elementor-9 .elementor-element.elementor-element-d239136 > .elementor-widget-container{padding:20px 0px 30px 0px;}:root{--page-title-display:none;}@media(max-width:767px){.elementor-9 .elementor-element.elementor-element-02e6d14:not(.elementor-motion-effects-element-type-background), .elementor-9 .elementor-element.elementor-element-02e6d14 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("http://localhost/meiwell/wp-content/uploads/2021/05/Checkout-Article-Mobile-banner.jpg");background-position:center center;background-size:cover;}.elementor-9 .elementor-element.elementor-element-d740d5a .elementor-heading-title{font-size:28px;line-height:1.5em;letter-spacing:0.5px;}.elementor-9 .elementor-element.elementor-element-bd42132{font-size:14px;line-height:1.5em;letter-spacing:0px;}.elementor-9 .elementor-element.elementor-element-32c2008 .elementor-heading-title{font-size:26px;}}/* Start custom CSS for text-editor, class: .elementor-element-79dafd97 */.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
+    background-color: #60846d;
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+    padding: 20px 50px;
+    font-size: 18px;
+    border-radius: 0px;
+}
+
+.woocommerce-additional-fields {
+    display: none;
+}
+
+.woocommerce .col2-set .col-1, .woocommerce-page .col2-set .col-1 {
+    float: none!important;
+    width: 80%!important;
+    margin: 0 auto;
+}
+
+.woocommerce form .form-row-wide, .woocommerce-page form .form-row-wide {
+    float: left;
+    width: 47%;
+    margin-right: 16px!important;
+}
+
+.woocommerce form .form-row-wide, .woocommerce-page form .form-row-wide {
+    clear: none!important;
+    float: left;
+}
+
+.woocommerce form .form-row {
+    padding: 10px 20px!important;
+    margin: 0 0 6px!important;
+    width: 50%!important;
+}
+
+.woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0;
+    outline: 0;
+    line-height: normal;
+    padding: 20px!important;
+    border: none;
+    background-color: #F7F5F6!important;
+}
+.woocommerce-privacy-policy-text {
+    display: none!important;
+}
+
+.woocommerce #payment #place_order, .woocommerce-page #payment #place_order {
+    float: none!important;
+    margin-left: 420px!important;
+}
+
+@media only screen and (max-width: 667px) and (min-width: 360px)  {
+    
+    .woocommerce form .form-row {
+    padding: 5px 0px!important;
+    margin: 0 0 6px!important;
+    width: 100%!important;
+}
+.woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea {
+    padding: 14px!important;
+    
+}
+.woocommerce #payment #place_order, .woocommerce-page #payment #place_order {
+    float: none!important;
+    margin-left: 0px!important;
+}/* End custom CSS */
